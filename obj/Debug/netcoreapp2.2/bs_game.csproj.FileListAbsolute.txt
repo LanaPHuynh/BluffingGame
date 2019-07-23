@@ -1,0 +1,11 @@
+d:\Coding_Dojo\csharp_stack\OOP\bs_game\bin\Debug\netcoreapp2.2\bs_game.deps.json
+d:\Coding_Dojo\csharp_stack\OOP\bs_game\bin\Debug\netcoreapp2.2\bs_game.runtimeconfig.json
+d:\Coding_Dojo\csharp_stack\OOP\bs_game\bin\Debug\netcoreapp2.2\bs_game.runtimeconfig.dev.json
+d:\Coding_Dojo\csharp_stack\OOP\bs_game\bin\Debug\netcoreapp2.2\bs_game.dll
+d:\Coding_Dojo\csharp_stack\OOP\bs_game\bin\Debug\netcoreapp2.2\bs_game.pdb
+d:\Coding_Dojo\csharp_stack\OOP\bs_game\obj\Debug\netcoreapp2.2\bs_game.csprojAssemblyReference.cache
+d:\Coding_Dojo\csharp_stack\OOP\bs_game\obj\Debug\netcoreapp2.2\bs_game.csproj.CoreCompileInputs.cache
+d:\Coding_Dojo\csharp_stack\OOP\bs_game\obj\Debug\netcoreapp2.2\bs_game.AssemblyInfoInputs.cache
+d:\Coding_Dojo\csharp_stack\OOP\bs_game\obj\Debug\netcoreapp2.2\bs_game.AssemblyInfo.cs
+d:\Coding_Dojo\csharp_stack\OOP\bs_game\obj\Debug\netcoreapp2.2\bs_game.dll
+d:\Coding_Dojo\csharp_stack\OOP\bs_game\obj\Debug\netcoreapp2.2\bs_game.pdb

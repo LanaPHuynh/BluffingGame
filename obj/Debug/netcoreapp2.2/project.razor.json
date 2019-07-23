@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Coding_Dojo\\csharp_stack\\OOP\\bs_game\\bs_game.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
